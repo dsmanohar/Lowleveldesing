@@ -1,0 +1,20 @@
+1.) there should be a board which has snakes at random places and there can be 
+n players 
+2.) each player will take turns and roll the dice and move the piece according their 
+position according to dice 
+3.) when player position reaches a snake they go back to tail of the snake
+4.) player who reaches the end position wins 
+
+
+- the game should support N players 
+- the board can be configured to have any number as end position
+- whenever we start the game we can set difficulty 
+- based on the diffculty set the number of snakes
+- players can take turns and play the game whoever reaches the first place wins 
+- Die can also be configured to support max die number (N)
+
+objects -
+1.) board 
+2.) Die 
+3.) Player
+4.) Snake
